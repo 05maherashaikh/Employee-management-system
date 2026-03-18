@@ -1,6 +1,9 @@
 
 👨‍💼 Employee Attendance & Salary Management System
 
+🌐 Live Demo 🚀 Try the app here:
+👉 https://employee-management-sys.streamlit.app
+
 🚀 Overview
 
 This is a full-stack Employee Attendance Management System built using Streamlit (frontend) and FastAPI (backend). The application allows managing employees, tracking attendance, recording work hours, and calculating salaries with bonus
