@@ -5,8 +5,8 @@
 
 🚀 Overview
 
-This is a full-stack Employee Attendance Management System built using Streamlit (frontend) and FastAPI (backend). The application allows managing employees, tracking attendance, recording work hours, and calculating salaries with bonus
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This is a Employee Attendance Management System built using Streamlit (frontend) and FastAPI (backend). The application allows managing employees, tracking attendance, recording work hours, and calculating salaries with bonus
+
 
 🌐 Features
 
@@ -67,7 +67,7 @@ GET	/salary	Calculate salary
 
 💼 Resume Highlights
 
-Built a full-stack Employee Management System using Streamlit and FastAPI
+Built a Employee Management System using Streamlit and FastAPI
 Designed APIs for employee, attendance, and salary management
 Implemented attendance tracking and salary calculation logic with bonus/deduction
 Structured project with separate frontend and backend architecture
