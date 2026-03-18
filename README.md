@@ -1,4 +1,3 @@
-
 👨‍💼 Employee Attendance & Salary Management System
 
 🌐 Live Demo 🚀 Try the app here:
