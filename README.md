@@ -1,36 +1,33 @@
 
 👨‍💼 Employee Attendance & Salary Management System
+
 🚀 Overview
+
 This is a full-stack Employee Attendance Management System built using Streamlit (frontend) and FastAPI (backend). The application allows managing employees, tracking attendance, recording work hours, and calculating salaries with bonus
 
 🌐 Features
+
 ➕ Add new employees
-
 📋 View all employees
-
 🔍 Search employee by ID or Name
-
 ✏️ Update employee salary
-
 ❌ Delete employee
-
 📅 Mark daily attendance
-
 ⏱ Record working hours
-
 📊 Monthly attendance report
 
 💰 Calculate salary with:
-
 Bonus (based on attendance)
 Deduction (for low attendance)
+
+
 🛠 Tech Stack
+
 Python
 Streamlit (Frontend UI)
 Data Structures (List, Dictionary)
 FastApi (Backned API)
-Structure
-employee-attendance/ │ ├── frontend/ │ └── main.py # Streamlit UI │ ├── backend/ │ ├── main.py # FastAPI app │ ├── employee.py │ ├── attendance.py │ ├── salary.py │ ├── README.md ├── requirements.txt
+
 
 ▶️ How to Run
 🔹 1. Clone Repository
