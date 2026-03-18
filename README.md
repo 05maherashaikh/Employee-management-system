@@ -46,6 +46,7 @@ http://127.0.0.1:8000/docs
 
 🔹 4. Run Frontend (Streamlit)
 streamlit run frontend/main.py
+Open Stremlit - http://localhost:8501/
 
 
 🔗 API Endpoints (FastAPI)
