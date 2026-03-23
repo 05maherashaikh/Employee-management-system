@@ -41,13 +41,8 @@ pip install -r requirements.txt
 🔹 3. Run Backend (FastAPI)
 uvicorn backend.main:app --reload
 
-👉 Open API Docs:
-http://127.0.0.1:8000/docs
-
 🔹 4. Run Frontend (Streamlit)
 streamlit run frontend/main.py
-Open Streamlit - http://localhost:8501/
-
 
 🔗 API Endpoints (FastAPI)
 Method	Endpoint	Description
